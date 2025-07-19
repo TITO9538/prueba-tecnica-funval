@@ -1,0 +1,11 @@
+1) ¿Cómo decidió las opciones técnicas y arquitectónicas utilizadas como parte de su solución?
+2) ¿Hay alguna mejora que pueda hacer en su envío?
+3) ¿Qué haría de manera diferente si se le asignara más tiempo?
+
+1_ Utilice Axios para poder hacer las peticiones, Utilice un modal para mostrar cada una de las peliculas, 
+siento que es mas rapido para la seleciones de peliculas y de saber que elegir que redirigir a otra pagina para cada una.
+
+2_ Mejoras que podria hacer son los estilos, trate de seguir los estilos pedidos, agregaria una mejora de estilos en el ligth
+y haria un dark mode.
+
+3_ Mejoraria la funcionalidad, agregaria el dark mode y lo haria mas compacto.
