@@ -13,7 +13,7 @@ export default function Home() {
           <Link to="/series" className="flex flex-col gap-2">
             <article className="w-full h-[90%] bg-[#1e1e1e] flex flex-col items-center justify-center">
               <img
-                src="../../public/assets/placeholder.png"
+                src="../../assets/placeholder.png"
                 alt="movie logo"
                 className="absolute"
               />
@@ -26,7 +26,7 @@ export default function Home() {
           <Link to="/movies" className="flex flex-col gap-2">
             <article className="w-full h-[90%] bg-[#1e1e1e] flex flex-col items-center justify-center">
               <img
-                src="../../public/assets/placeholder.png"
+                src="../../assets/placeholder.png"
                 alt="movie logo"
                 className="absolute"
               />
